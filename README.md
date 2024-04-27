@@ -27,7 +27,7 @@ Este desafio não apenas fortalece as habilidades técnicas em Java e integraç�
 - [Filtro de Moedas](#filtro)
 - [Exibição de Resultados aos Usuários](#exibicao)
 - [Conclusão](#conclusao)
-- [Badge](#badge)
+- [Badge e Certificados](#badge-certificados)
 - [Licença](#licença)
 
 ## <a name="instrutora"> Instrutora </a>
@@ -111,9 +111,16 @@ Além disso, ao longo do curso, aprendi a importância de estruturar meu código
 
 No final, o resultado foi um conversor de moedas funcional e eficaz, que me deixou muito orgulhoso do meu progresso como programador. Este curso não apenas me ensinou novas técnicas em Java, mas também me proporcionou uma experiência prática valiosa que certamente levarei comigo em projetos futuros.
 
-## <a name="badge"> Badge </a>
+## <a name="badge-certificados"> Badge e Certificado </a>
 
+- Badge de Conclusão do Curso:
 [![Alura](https://cdn1.gnarususercontent.com.br/6/421189/9d4c9ba6-5b7c-4339-8055-c30d0e57eb99.png)](https://www.alura.com.br/one)
+
+- Certificado de Conclusão do Curso:
+-  Frente
+![](img/certificado_frente.PNG)
+-  Verso
+![](img/certificado_verso.PNG)
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
