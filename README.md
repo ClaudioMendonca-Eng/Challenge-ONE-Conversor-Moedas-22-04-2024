@@ -115,12 +115,12 @@ No final, o resultado foi um conversor de moedas funcional e eficaz, que me deix
 
 | Badge de Conclusão do Curso |
 |:---:|
-| [![Alura](https://cdn1.gnarususercontent.com.br/6/421189/9d4c9ba6-5b7c-4339-8055-c30d0e57eb99.png)](https://www.alura.com.br/one)|
+| [![Alura Badge](https://cdn1.gnarususercontent.com.br/6/421189/9d4c9ba6-5b7c-4339-8055-c30d0e57eb99.png)](https://www.alura.com.br/one)|
 | Certificado de Conclusão do Curso |
 | Frente |
-| ![](img/certificado_frente.PNG) |
+| [![Certificado Frente](img/certificado_frente.PNG)](https://www.alura.com.br/one) |
 | Verso |
-| ![](img/certificado_atras.PNG) |
+| [![Certificado Verso](img/certificado_atras.PNG)](https://www.alura.com.br/one) |
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
